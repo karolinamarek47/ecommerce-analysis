@@ -45,7 +45,7 @@ Evaluated the ROI of traffic sources and device performance.
 
 ![alt text](image-1.png)
 
-### 3. Website Performance & A/B Testing (The Core Value)
+### 3. Website Performance & A/B Testing
 Performed granular funnel analysis to find bottlenecks and validated design experiments.
 
 #### 📉 Conversion Funnel
