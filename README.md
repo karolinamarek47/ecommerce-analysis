@@ -20,7 +20,31 @@ This project follows a Data Engineering & Analytics workflow:
 3.  **Analyze:** Built SQL Data Marts (`bi_` tables) to serve as a semantic layer.
 4.  **Visualize:** Connected Power BI to MySQL for dynamic reporting.
 
----
+## ⚙️ Project Setup
+
+To run this project on your local machine, follow these steps:
+
+### 1. Prerequisites
+Ensure you have the following installed:
+
+* **Python 3.x**
+* **MySQL Server** (Local instance)
+* **MySQL Workbench**
+
+### 2. Installation & Configuration
+Before running the scripts, you need to configure your database connection:
+
+1.  Open `00_data_loading.ipynb`.
+2.  Install the required Python libraries. 
+3.  Locate the configuration section.
+4.  Update the `DB_USER`, `DB_PASSWORD`, and `DB_PORT` variables with your local MySQL Workbench credentials.
+
+### 3. Execution Order
+1.  **Run `00_data_loading.ipynb` first:**
+    This script initializes the database schema (`toy_store_ecommerce`) and loads the raw CSV data.
+
+2.  **Execute SQL Scripts / Analysis:**
+    Once the data is loaded, proceed with the analysis files (e.g., `01_etl_pipeline.sql`) or check results in MySQL Workbench.
 
 ## 🔍 Key Insights & Analysis
 
