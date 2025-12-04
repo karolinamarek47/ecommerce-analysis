@@ -103,7 +103,7 @@ ORDER BY month_start_date;
 
 
 -- =============================================================================
--- 2. CUSTOMER SEGMENTATION: NEW vs. REPEAT
+-- 2. CUSTOMER SEGMENTATION: NEW vs REPEAT
 -- =============================================================================
 /*
  Analyzing customer retention and the value of loyalty.
