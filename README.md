@@ -116,6 +116,13 @@ The project is organized as follows:
 * **Mobile Experience:** Prioritize mobile interface improvements. The gap between high traffic volume and low conversion indicates substantial untapped revenue potential.
 * **Course Correction - Landing Pages:** Analysis detects that one of the top-performing pages, `/lander-2` (with High Revenue Per Session), was deprecated in Q1 2015 in favor of the inferior `/lander-3`. **Reinstating `/lander-2` is recommended** to recover lost revenue efficiency.
 
+
+---
+### 👩‍💻 Author: **Karolina Marek**
 ---
 
-### 👩‍💻 Author: **Karolina Marek**
+## ℹ️ Data Source & License
+
+* **Dataset:** Toy Store E-Commerce Database
+* **Source:** Maven Analytics
+* **License:** Public Domain
