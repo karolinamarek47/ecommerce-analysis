@@ -82,7 +82,7 @@ Mapped the user journey from `/home` to `/thank-you`.
 * *Methodology Note: To ensure data integrity, I restricted the analysis to the Sep 2012 – Jan 2013 timeframe where both pages were active concurrently.*
 
 **Key Findings:**
-* **Conversion Rate (Primary KPI):** The new version achieved a **62.44%** conversion rate vs. **45.41%** for the original (**+17 p.p. lift**).
+* **Conversion Rate (Primary KPI):** The new version achieved a **62.44%** conversion rate vs. **45.41%** for the original (**+17 p.p. lift**), a difference confirmed as statistically significant ($\mathbf{p \approx 0.000}$).
 * **Revenue Efficiency:** The analysis confirmed that the higher conversion volume directly translated into value—**Revenue Per Session increased by $8.72**.
 
 **Conclusion:**
@@ -104,6 +104,7 @@ The project is organized as follows:
 | `02_sales_analysis.sql` | Advanced SQL queries for financial trends and customer retention. |
 | `03_marketing_analysis.sql` | Evaluation of traffic sources and marketing efficiency. |
 | `04_website_performance.sql` | Complex funnel analysis and A/B test validation. |
+| `05_ab_test_billing_statistical_analysis.sql` | Performs a statistical test on billing page conversion data. |
 | `Maven_Toys_Report.pbix` | The interactive Power BI dashboard file. |
 
 ---
